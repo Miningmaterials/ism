@@ -60,6 +60,7 @@ a{
 .dropdown {
   position: static;
   display: inline-block;
+  font-size: 20px;
 }
 
 .dropdown-content {

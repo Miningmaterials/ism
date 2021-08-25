@@ -48,6 +48,13 @@ a{
 .updateimg{
 
 }
+.tutorial-img{
+width:250px;
+}
+.Notes-img{
+  width:250px;
+}
+
 .dropbtn {
   background-color: #4CAF50;
   color: white;
